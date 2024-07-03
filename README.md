@@ -15,11 +15,3 @@
 - **Docker Site** https://docker.ioiox.com
 - **Blog** https://www.ioiox.com
 
-## 打赏 & 推广
-👍 推荐自用晚高峰 4K/8K 稳定的 IPLC 机场，欢迎使用我的 [推广链接](https://st1.hosbb.com/#/register?code=gBXmmXyG) 注册。
-
-🛍️ 欢迎访问 [我的小店](https://shop.ioiox.xyz)，不定期上架一些乱七八糟的东西。
-
-💰 如果我的项目帮助到你，欢迎随意打赏。
-
-![](https://i.ioiox.com/2023/08/21/16926092669341ZvpOn.jpg)
